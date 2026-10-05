@@ -20,5 +20,7 @@ Building scalable web applications, REST APIs, and database architectures.
 ---
 
 ### 📊 GitHub Stats
-![Brijesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brijesh612&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh612&layout=compact&theme=radial)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=brijesh612&show_icons=true&theme=tokyonight&count_private=true" alt="Brijesh's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh612&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" height="160" />
+</p>
