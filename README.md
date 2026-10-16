@@ -1,6 +1,6 @@
 # Hi there, I'm Brijesh Jagatiya 👋
 
-### 💻 Full-Stack Python & Django Developer
+### 💻 Python & Django Developer
 Building scalable web applications, REST APIs, and database architectures.
 
 - 🔭 **Currently working on:** Grocery Management System (Django B2B Platform)
